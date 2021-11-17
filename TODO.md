@@ -9,3 +9,4 @@
 + ~~clickable link~~
 + ~~migration to new host~~
 + ~~new qr~~
+
