@@ -1,8 +1,8 @@
 # Comarea
-Online static site Comarea
+Online static site Comarca
 
 ## Datos
-+ online: www.comarealhocal.com
++ online: www.comarcacuinalhocal.es
 
 ## Localhost setup
 ```bash
