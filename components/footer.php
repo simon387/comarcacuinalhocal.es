@@ -1,6 +1,11 @@
+<?php
+$f = fopen("changelog.txt", 'r');
+$version = fgets($f);
+fclose($f);
+?>
 <footer class="footer text-faded text-center py-5">
 	<div class="container">
-		<p class="m-0 small">Copyright &copy; www.simonecelia.it 2021</p>
+		<p class="m-0 small">Copyright &copy; <a href="www.simonecelia.it">www.simonecelia.it</a> 2021. <?php echo $version ?></p>
 	</div>
 </footer>
 <script src="vendor/jquery/jquery.min.js"></script>

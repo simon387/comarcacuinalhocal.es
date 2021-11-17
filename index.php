@@ -1,4 +1,4 @@
-<?php include "components/header.php"; ?>
+<?php include "components/header.html"; ?>
 <?php $page=1; include "components/navigation.php"; ?>
 
 <section class="page-section clearfix">
@@ -25,7 +25,7 @@
 		<div class="row">
 			<div class="col-xl-9 mx-auto">
 				<div class="cta-inner text-center rounded">
-					<?php include "components/info.php"; ?>
+					<?php include "components/info.html"; ?>
 				</div>
 			</div>
 		</div>
@@ -33,4 +33,4 @@
 </section>
 
 <?php include "components/footer.php"; ?>
-<?php include "components/close.php"; ?>
+<?php include "components/close.html"; ?>

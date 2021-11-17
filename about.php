@@ -1,4 +1,4 @@
-<?php include "components/header.php"; ?>
+<?php include "components/header.html"; ?>
 <?php $page=2; include "components/navigation.php"; ?>
 
 <section class="page-section about-heading">
@@ -22,4 +22,4 @@
 </section>
 
 <?php include "components/footer.php"; ?>
-<?php include "components/close.php"; ?>
+<?php include "components/close.html"; ?>

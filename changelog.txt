@@ -1,9 +1,9 @@
-/*1.2.0
+1.2.0
 - version to fe
 - clickable link
 - migration to new host
 - new qr
-*/
+
 1.1.4
 - New Cartas template
 - added win deploy bat

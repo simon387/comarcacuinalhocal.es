@@ -1,4 +1,4 @@
-<?php include "components/header.php"; ?>
+<?php include "components/header.html"; ?>
 <?php $page=4; include "components/navigation.php"; ?>
 
 <section class="page-section cta">
@@ -67,7 +67,7 @@
 			<div class="row">
 				<div class="col-xl-9 col-lg-10 mx-auto">
 					<div class="bg-faded rounded p-5">
-						<?php include "components/info.php"; ?>
+						<?php include "components/info.html"; ?>
 					</div>
 				</div>
 			</div>
@@ -82,5 +82,5 @@
 	$('.list-hours li').eq(new Date().getDay()).addClass('today');
 </script>
 
-<?php include "components/close.php"; ?>
+<?php include "components/close.html"; ?>
 

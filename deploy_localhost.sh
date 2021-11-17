@@ -1,2 +1,2 @@
-rm -rf /var/www/html/comarea
-cp -R ../comarea/ /var/www/html/
+rm -rf /var/www/html/comarcacuinalhocal.es
+cp -R ../comarcacuinalhocal.es/ /var/www/html/
