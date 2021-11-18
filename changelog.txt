@@ -1,24 +1,27 @@
-1.2.0
+Version 1.2.1
+- fix version to fe
+
+Version 1.2.0
 - version to fe
 - clickable link
 - migration to new host
 - new qr
 
-1.1.4
+Version 1.1.4
 - New Cartas template
 - added win deploy bat
 
-1.1.3
+Version 1.1.3
 - New Cartas
 
-1.1.2
+Version 1.1.2
 - Switched to public repo
 
-1.1.1
+Version 1.1.1
 - Added CI
 
-1.1.0
+Version 1.1.0
 - Added Carta QR
 
-1.0.1
+Version 1.0.1
 - Added Phone Number
