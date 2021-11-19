@@ -75,13 +75,9 @@
 	</div>
 </section>
 
-<?php include "components/footer.php"; ?>
-
 <!-- Script to highlight the active date in the hours list -->
 <script>
 	$('.list-hours li').eq(new Date().getDay()).addClass('today');
 </script>
 
-</body>
-</html>
-
+<?php include "components/footer.php"; ?>

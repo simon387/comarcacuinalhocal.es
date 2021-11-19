@@ -1,3 +1,6 @@
+Version 1.2.4
+- fix html error
+
 Version 1.2.3
 - fix CI and minify
 - instagram link upd
