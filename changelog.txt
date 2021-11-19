@@ -1,3 +1,7 @@
+Version 1.2.2
+- added minify source code to CI
+- opt CEO
+
 Version 1.2.1
 - fix version to fe
 
