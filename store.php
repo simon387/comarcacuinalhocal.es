@@ -82,5 +82,6 @@
 	$('.list-hours li').eq(new Date().getDay()).addClass('today');
 </script>
 
-<?php include "components/close.html"; ?>
+</body>
+</html>
 

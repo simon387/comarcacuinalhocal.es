@@ -33,4 +33,3 @@
 </section>
 
 <?php include "components/footer.php"; ?>
-<?php include "components/close.html"; ?>
