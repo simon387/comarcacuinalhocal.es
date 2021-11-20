@@ -1,3 +1,6 @@
+Version 1.2.5
+- fix footer
+
 Version 1.2.4
 - fix html error
 
