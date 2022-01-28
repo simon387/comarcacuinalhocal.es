@@ -1,3 +1,6 @@
+Version 1.2.6
+- added video files for android screensaver
+
 Version 1.2.5
 - fix footer
 
