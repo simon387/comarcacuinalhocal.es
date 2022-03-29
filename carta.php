@@ -13,8 +13,8 @@ include "components/navigation.php"; ?>
 				</div>
 				<div id="collapseOne" class="collapse" aria-labelledby="headingOne" data-parent="#accordionExample">
 					<div class="card-body">
-						<img class="product-item-img mx-auto d-flex rounded img-fluid mb-3 mb-lg-0" src="img/cartas/carta_1.jpg" alt="carta 1">
-						<img class="product-item-img mx-auto d-flex rounded img-fluid mb-3 mb-lg-0" src="img/cartas/carta_2.jpg" alt="carta 2">
+						<img class="product-item-img mx-auto d-flex rounded img-fluid mb-3 mb-lg-0" src="img/cartas/carta_1.png" alt="carta 1">
+						<img class="product-item-img mx-auto d-flex rounded img-fluid mb-3 mb-lg-0" src="img/cartas/carta_2.png" alt="carta 2">
 					</div>
 				</div>
 			</div>
@@ -38,7 +38,7 @@ include "components/navigation.php"; ?>
 				</div>
 				<div id="collapseThree" class="collapse" aria-labelledby="headingThree" data-parent="#accordionExample">
 					<div class="card-body">
-						<img class="product-item-img mx-auto d-flex rounded img-fluid mb-3 mb-lg-0" src="img/cartas/platillos.jpg" alt="cartas platillos">
+						<img class="product-item-img mx-auto d-flex rounded img-fluid mb-3 mb-lg-0" src="img/cartas/platillos.png" alt="cartas platillos">
 					</div>
 				</div>
 			</div>
