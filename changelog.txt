@@ -1,3 +1,6 @@
+Version 1.2.8
+- updated footer
+
 Version 1.2.7
 - updated Cartas
 
